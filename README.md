@@ -1,2 +1,1 @@
-# Hello-World
-Look Busy Do Nothing
+print('Hello, World!')
